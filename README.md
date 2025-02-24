@@ -3,9 +3,9 @@
 nmap scanning options 
 
 
-Basic Network Scan:
-Scan the entire subnet to discover live hosts:
-nmap -sn 192.168.1.0/24
+Basic Network Scan:</br>
+Scan the entire subnet to discover live hosts:</br>
+nmap -sn 192.168.1.0/24</br>
 
 
 Full Port Scan (TCP) on All Live Hosts:
